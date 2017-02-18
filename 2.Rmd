@@ -12,10 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 HELLO
-priv
 hello
-
-125
-
+priv
 ```
 
